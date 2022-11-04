@@ -85,19 +85,23 @@ body{
 	color: white;
 }
 .html{
-	width: 85%;
+	width: 90%;
 	background-color: white;
 }
 .css{
-	width: 75%;
+	width: 85%;
 	background-color: white;
 }
 .js{
-	width: 85%;
+	width: 80%;
 	background-color: white;
 }
 .jquery{
 	width: 80%;
+	background-color: white;
+}
+.skill-bootstrap{
+	width: 85%;
 	background-color: white;
 }
 .web {
